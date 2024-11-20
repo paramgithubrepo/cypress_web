@@ -4,10 +4,10 @@ This repository contains an assignment to test Cypress skills with the Easygener
 
 ## Project Information
 
-- **Project Name**: cypress-easygenerator
+- **Project Name**: cypress-web
 - **Version**: 1.0.0
-- **Description**: Testing my Cypress skills with Easygenerator Test Automation team
-- **Author**: Sathishkumar Periyasamy
+- **Description**: Cypress Automation with typescript
+- **Author**: Param
 
 
 ## Installation
